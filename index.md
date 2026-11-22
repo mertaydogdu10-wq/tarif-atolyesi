@@ -2,7 +2,7 @@
 title: Tarif Atölyesi
 ---
 
-**Ana sayfa / Home** · [Gizlilik Politikası / Privacy Policy](gizlilik.html) · [Kullanım Şartları / Terms of Service](kosullar.html)
+**Ana sayfa / Home** · [Gizlilik Politikası / Privacy Policy](gizlilik.html) · [Kullanım Şartları / Terms of Service](kosullar.html) · [Kaynaklar / Credits](kaynaklar.html)
 
 <img src="logo.png" alt="Tarif Atölyesi" width="140">
 
@@ -19,6 +19,7 @@ Kanal sahibinin kendi videolarını kendi kanalına yüklemek için kullandığ�
 
 - [Gizlilik Politikası / Privacy Policy](gizlilik.html)
 - [Kullanım Şartları / Terms of Service](kosullar.html)
+- [Kaynaklar / Credits](kaynaklar.html)
 - [YouTube Terms of Service](https://www.youtube.com/t/terms) · [Google Privacy Policy](https://policies.google.com/privacy)
 
 <small>Page URL: https://mertaydogdu10-wq.github.io/tarif-atolyesi/</small>
